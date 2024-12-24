@@ -18,7 +18,7 @@ Welcome back! In this repository you will find a complete analysis based on Netw
     * Hubs Vacunation 
 * Conclusions
 
-![Logo]()
+![Logo](https://github.com/AlanAmaro13/YT_Network_Analysis/blob/main/PNGofMiniature.png)
 
 # Videos Explaining the Analysis:
 All of the sections described here are explained in a playlist of YouTube videos, which are available in [Analysis Videos]()
