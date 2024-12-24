@@ -24,7 +24,7 @@ Welcome back! In this repository you will find a complete analysis based on Netw
 All of the sections described here are explained in a playlist of YouTube videos, which are available in [Analysis Videos]()
 
 # Spread of the Disease: 
-The Spread-of-Disease Videos are avaible in the next [Playlist]()
+The Spread-of-Disease Videos are avaible in the next [Playlist](https://www.youtube.com/playlist?list=PLc7gdwyA0bNgMdgG_TNR4tdfiT3NFh9bw)
 
 
 # Conclusions 
